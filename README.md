@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+  <li><a style="text-decoration:none; color:grey;" href="https://alpersanli.github.io">My Website</a></li></li>
   <a href = "mailto:alpersanli16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a>
-  <a style="text-decoration:none; color:grey;" href="https://alpersanli.github.io">My Website</a></li>
   
  <div>
   <a href="https://github.com/alpersanli">
