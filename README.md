@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+  <a href = "mailto:alpersanli16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a>
+  <a style="text-decoration:none; color:grey;" href="https://alpersanli.github.io">My Website</a></li>
+  
  <div>
   <a href="https://github.com/alpersanli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alpersanli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpersanli&layout=compact&langs_count=7&theme=dracula"/>
 </div>
- 
-  <a href = "mailto:alpersanli16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
