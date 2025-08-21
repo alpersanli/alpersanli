@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alper Şanlı 👋</h1>
+<h1 align="center">Hi, I'm Alper :)</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00C0FF&center=true&vCenter=true&width=600&lines=Researcher+%7C+Debugging+the+Universe;Researcher+%7C+Curiosity;Researcher+%7C+Compiling+the+Cosmos;Researcher+%7C+Decoding+Stars" alt="Typing SVG" />
