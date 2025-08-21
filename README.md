@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://alpersanli.github.io" target="_blank">🌐 Website</a> 
-  <a href="mailto:alpersanli16@gmail.com">📩 Email</a> •
+  <a href="mailto:alpersanli16@gmail.com">📩 Email</a> 
 </p>
 
 ---
