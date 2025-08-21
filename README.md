@@ -1,8 +1,7 @@
-<h1 align="center">Hi, I'm Alper Şanlı 👋</h1>
+<h1 align="center">Hi, I'm Alper :)</h1>
 
 <p align="center">
-  <strong>Researcher | </strong>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00C0FF&vCenter=true&width=400&lines=Debugging+the+Universe;Curiosity;Compiling+the+Cosmos;Decoding+Stars" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00C0FF&center=true&vCenter=true&width=600&lines=Engineer+%7C+Debugging+the+Universe;Researcher+%7C+Curiosity;Researcher+%7C+Compiling+the+Cosmos;Researcher+%7C+Decoding+Stars" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,17 +9,7 @@
 <p align="center">
   <a href="https://alpersanli.github.io" target="_blank">🌐 Website</a> •
   <a href="mailto:alpersanli16@gmail.com">📩 Email</a> •
-  <a href="https://github.com/alpersanli" target="_blank">💻 GitHub</a>
 </p>
-
----
-
-### ⚙️ About Me
-- 🎓 **Mechanical Engineer** by training  
-- 🚀 Researching **Aerospace, Optics & Satellites**  
-- 🤖 Exploring **AI/ML** in engineering applications  
-- 🛠️ Blending theory with hands-on experiments  
-- 🌍 Believer in open science and curiosity-driven design  
 
 ---
 
