@@ -9,17 +9,7 @@
 <p align="center">
   <a href="https://alpersanli.github.io" target="_blank">🌐 Website</a> •
   <a href="mailto:alpersanli16@gmail.com">📩 Email</a> •
-  <a href="https://github.com/alpersanli" target="_blank">💻 GitHub</a>
 </p>
-
----
-
-### ⚙️ About Me
-- 🎓 **Mechanical Engineer** by training  
-- 🚀 Researching **Aerospace, Optics & Satellites**  
-- 🤖 Exploring **AI/ML** in engineering applications  
-- 🛠️ Blending theory with hands-on experiments  
-- 🌍 Believer in open science and curiosity-driven design  
 
 ---
 
