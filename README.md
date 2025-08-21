@@ -6,8 +6,14 @@
 
 ---
 
+
 <p align="center">
-  <a href="https://alpersanli.github.io" target="_blank">🌐 Website</a> • <a href="mailto:alpersanli16@gmail.com">📩 Email</a>
+  <a href="https://alpersanli.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Website-0A192F?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:alpersanli16@gmail.com">
+    <img src="https://img.shields.io/badge/📩 Email-0A192F?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
