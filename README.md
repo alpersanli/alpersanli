@@ -6,7 +6,6 @@
 
 ---
 
-
 <p align="center">
   <a href="https://alpersanli.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Website-0A192F?style=for-the-badge&logo=google-chrome&logoColor=white" />
