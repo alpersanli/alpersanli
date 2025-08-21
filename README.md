@@ -1,18 +1,25 @@
 <h1 align="center">Hi, I'm Alper Şanlı 👋</h1>
+
 <p align="center">
-  <em>Aerospace Engineer | Researcher in Optics & Small Satellites</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00C0FF&center=true&vCenter=true&width=600&lines=Researcher+%7C+Debugging+the+Universe;Researcher+%7C+Curiosity;Researcher+%7C+Compiling+the+Cosmos;Researcher+%7C+Decoding+Stars" alt="Typing SVG" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://alpersanli.github.io" target="_blank">
-    🌐 My Website
-  </a> • 
-  <a href="mailto:alpersanli16@gmail.com">
-    📩 Contact Me
-  </a>
+  <a href="https://alpersanli.github.io" target="_blank">🌐 Website</a> •
+  <a href="mailto:alpersanli16@gmail.com">📩 Email</a> •
+  <a href="https://github.com/alpersanli" target="_blank">💻 GitHub</a>
 </p>
+
+---
+
+### ⚙️ About Me
+- 🎓 **Mechanical Engineer** by training  
+- 🚀 Researching **Aerospace, Optics & Satellites**  
+- 🤖 Exploring **AI/ML** in engineering applications  
+- 🛠️ Blending theory with hands-on experiments  
+- 🌍 Believer in open science and curiosity-driven design  
 
 ---
 
