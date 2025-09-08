@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alper :)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00C0FF&center=true&vCenter=true&width=600&lines=Engineer+%7C+Debugging+the+Universe;Engineer+%7C+Curiosity;Engineer+%7C+Compiling+the+Cosmos;Engineer+%7C+Decoding+Stars" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00C0FF&center=true&vCenter=true&width=600&lines=%7C+Engineer;%7C+Debugging+the+Universe;%7C+Curiosity;%7C+Compiling+the+Cosmos;%7C+Decoding+Stars" alt="Typing SVG" />
 </p>
 
 ---
